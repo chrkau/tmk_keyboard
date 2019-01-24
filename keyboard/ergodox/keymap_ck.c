@@ -58,7 +58,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
              LBRC,Y,   U,   I,   O,   P,   RBRC,
                   H,   J,   K,   L,   SCLN,QUOT,
              BSLS,N,   M,   COMM,DOT, SLSH,RSFT,
-                       RGUI,RALT,NO,  NO,  NO,
+                       RGUI,RALT,MPRV,MNXT,MPLY,
         RALT,RCTL,
         NO,
         NO,   ENT, SPC
@@ -79,7 +79,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
              FN6, LBRC,RBRC,FN20,FN21,MINS,FN7 ,
                   LEFT,DOWN,UP  ,RGHT,FN29,GRV ,
              TRNS,FN24,FN25,EQL ,TRNS,FN5, TRNS,
-                       TRNS,TRNS,TRNS,TRNS,TRNS,
+                       TRNS,TRNS,VOLD,VOLU,MUTE,
         TRNS,TRNS,
         TRNS,
         TRNS,TRNS,TRNS
